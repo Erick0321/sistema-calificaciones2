@@ -1,4 +1,3 @@
-```c id="xj4m8k"
 #include <stdio.h>
 #include <stdlib.h>
 
